@@ -1,1 +1,7 @@
 Extention of http://leandrovieira.com/projects/jquery/lightbox/
+
+* Add maxWidth, maxHeight settings
+* Add link to caption
+
+Usage:
+$('#gallery a').lightBox({"maxWidth": 300}); //default maxWidth: 800, maxHeight: 500
